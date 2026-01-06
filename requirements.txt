@@ -5,3 +5,5 @@ numpy
 openpyxl
 kaleido
 pytest
+chromium
+libxss1
