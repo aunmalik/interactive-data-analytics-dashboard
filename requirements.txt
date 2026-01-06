@@ -3,7 +3,5 @@ pandas
 plotly
 numpy
 openpyxl
-kaleido
+kaleido==0.2.1
 pytest
-chromium
-libxss1
